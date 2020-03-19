@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/TomcatDatasource">
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/registration" password="123456" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3300/registration" username="root"/>
+</Context>
